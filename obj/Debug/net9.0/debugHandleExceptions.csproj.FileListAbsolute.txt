@@ -12,3 +12,4 @@ C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExc
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\debugHandleExceptions.pdb
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\debugHandleExceptions.genruntimeconfig.cache
 C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\ref\debugHandleExceptions.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\debugHandleExceptions.sourcelink.json
