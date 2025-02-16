@@ -1,0 +1,14 @@
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\bin\Debug\net9.0\debugHandleExceptions.exe
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\bin\Debug\net9.0\debugHandleExceptions.deps.json
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\bin\Debug\net9.0\debugHandleExceptions.runtimeconfig.json
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\bin\Debug\net9.0\debugHandleExceptions.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\bin\Debug\net9.0\debugHandleExceptions.pdb
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\debugHandleExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\debugHandleExceptions.AssemblyInfoInputs.cache
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\debugHandleExceptions.AssemblyInfo.cs
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\debugHandleExceptions.csproj.CoreCompileInputs.cache
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\debugHandleExceptions.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\refint\debugHandleExceptions.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\debugHandleExceptions.pdb
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\debugHandleExceptions.genruntimeconfig.cache
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\debugHandleExceptions\obj\Debug\net9.0\ref\debugHandleExceptions.dll
